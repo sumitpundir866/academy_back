@@ -1,0 +1,1 @@
+from .academy_models import Base, ClassInfo, TeamMember, GalleryImage, UserPermission
